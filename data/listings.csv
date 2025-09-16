@@ -1,0 +1,8 @@
+apn,address,city,state,zip,price,beds,baths,sqft,status
+12-34-567890,12 Oak St,Orlando,FL,32801,450000,3,2,1600,for_sale
+12-34-567890,12 Oak St,Orlando,FL,32801,440000,3,2,1600,for_sale
+55-66-777888,99 Pine Ave,Miami,FL,33101,800000,4,3,2200,Pending
+99-00-111222,7 Lake View,Miami,FL,33101,NaN,2,1,900,for_sale
+22-33-444555,42 Elm Rd,Tampa,FL,33602,520000,3,2.5,1800,sold
+77-88-999000,1 Beach Dr,Miami,FL,33101,1200000,5,4,3500,withdrawn
+,123 Unknown Rd,Orlando,FL,32801,300000,2,1,900,for_sale

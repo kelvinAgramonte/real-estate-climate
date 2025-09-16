@@ -1,0 +1,38 @@
+[
+  {
+    "apn": "1234567890",
+    "full_address": "12 Oak St, Orlando, FL 32801",
+    "price": 440000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1600,
+    "price_per_sqft": 275,
+    "status": "for_sale",
+    "flood_zone": "AE",
+    "avg_rain_inches": 52.1
+  },
+  {
+    "apn": "2233444555",
+    "full_address": "42 Elm Rd, Tampa, FL 33602",
+    "price": 520000,
+    "beds": 3,
+    "baths": 2,
+    "sqft": 1800,
+    "price_per_sqft": 289,
+    "status": "sold",
+    "flood_zone": "VE",
+    "avg_rain_inches": 49.0
+  },
+  {
+    "apn": "5566777888",
+    "full_address": "99 Pine Ave, Miami, FL 33101",
+    "price": 800000,
+    "beds": 4,
+    "baths": 3,
+    "sqft": 2200,
+    "price_per_sqft": 364,
+    "status": "pending",
+    "flood_zone": "X",
+    "avg_rain_inches": 61.3
+  }
+]
