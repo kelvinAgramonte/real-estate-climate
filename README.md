@@ -1,5 +1,9 @@
 # Real Estate Listings + Climate Data Exercise
 
+![CI](https://github.com/kelvinAgramonte/real-estate-climate/actions/workflows/ci.yml/badge.svg)
+
+- 📘 **Architecture**: see [docs/architecture.md](docs/architecture.md)
+
 ## Overview
 
 This short coding exercise is designed to assess your ability to:
