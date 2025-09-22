@@ -2,14 +2,10 @@
 
 ![CI](https://github.com/kelvinAgramonte/real-estate-climate/actions/workflows/ci.yml/badge.svg)
 
-<<<<<<< HEAD
 - [Summary](docs/SUMMARY.md)
 - [Dictionary](docs/dictionary.md)
 - [Architecture](docs/architecture.md)
 
-=======
-- 📘 **Architecture**: see [docs/architecture.md](docs/)
->>>>>>> e0334b520e0cbdd57d0c2a078c2e26be30bfc503
 
 ## Overview
 
