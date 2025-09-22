@@ -21,7 +21,7 @@ The goal was to transform a short coding exercise into a fully structured, produ
   └─ README.md
   ```
 
-- Added a project-level `.gitignore` to exclude virtual environments, `__pycache__`, and build artifacts.
+- Added a `.gitignore` to exclude virtual environments, `__pycache__`, and build artifacts.
 
 ---
 
@@ -31,7 +31,7 @@ The goal was to transform a short coding exercise into a fully structured, produ
   - `pandas` for ETL transformations
   - `mysql-connector-python` for database integration
   - `pytest` for testing
-- Ensured `requirements.txt` reflects pinned versions.
+- Verify `requirements.txt` reflects pinned versions.
 
 ---
 
@@ -48,7 +48,7 @@ The goal was to transform a short coding exercise into a fully structured, produ
 ---
 
 ## 4. Testing
-- Wrote `tests/test_transform.py` with **pytest**.
+- `tests/test_transform.py` with **pytest**.
 - Verified:
   - Normalization logic.
   - Deduplication rules.
@@ -85,18 +85,15 @@ The goal was to transform a short coding exercise into a fully structured, produ
   - ETL data flow.
   - Local run sequence.
   - Container infrastructure.
-  - Database ERD.
   - Repository layout.
-- Generated draft diagrams (PNG/GIF) for clarity.
-- Created `docs/diagrams/` folder with structured naming (e.g., `01_system_overview.png`).
-- Added animated GIF exports for selected diagrams.
+- Generated draft diagrams (SVG).
+- Created `docs/` folder with structured naming (e.g., `01_system_overview.svg`).
 
 ---
 
 ## 8. Key Learnings
 - Structured even a small exercise into a **production-like repo** with testing, infra, CI, and docs.
 - Ensured reproducibility: any developer can clone, run `docker compose up`, run `python -m src.transform`, and query results.
-- Demonstrated ability to manage both **technical implementation** and **process rigor**.
 
 ---
 
