@@ -1,7 +1,18 @@
 # 📝 Project Summary
 
 This document summarizes the process followed to design, implement, and validate the **Real Estate Listings + Climate Data ETL** solution.  
-The goal was to transform a short coding exercise into a fully structured, production-like project.
+
+The original exercise explicitly stated that *“the goal is not to write a perfect production system, but to see how you approach a realistic data-transformation task and explain your choices.”*  
+
+I followed that guidance to implement the required ETL pipeline — but I also made a conscious choice to **go further**. Instead of stopping at a quick script, I documented and structured the solution as if it were a production project. This included:
+
+- Clear repository organization (`src/`, `tests/`, `scripts/`, `docs/`)
+- Automated tests (pytest)
+- Infrastructure for reproducibility (Docker + MySQL schema)
+- Documentation with diagrams and a glossary
+- CI pipeline with GitHub Actions
+
+The extra steps were not required, but they reflect how I would naturally approach technical project management: **solve the problem, then make the process repeatable, testable, and explainable to both technical and non-technical stakeholders.**
 
 ---
 
